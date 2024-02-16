@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div>highthon</div>;
+  return <div>sanghyun-react-template</div>;
 };
 
 export default Home;
