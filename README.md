@@ -1,1 +1,1 @@
-# highthon
+# sanghyun-react-template
